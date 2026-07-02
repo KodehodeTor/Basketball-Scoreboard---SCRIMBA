@@ -1,7 +1,18 @@
 // Functions for increments
 
-function inc1() {}
+let count = 0;
 
-function inc2() {}
+function inc1() {
+  count += 1;
+  document.getElementById("inc1-btn").textContent;
+}
 
-function inc3() {}
+function inc2() {
+  count += 2;
+  document.getElementById("inc2-btn").textContent;
+}
+
+function inc3() {
+  count += 3;
+  document.getElementById("inc3-btn").textContent;
+}
