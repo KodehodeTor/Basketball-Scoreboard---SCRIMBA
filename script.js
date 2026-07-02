@@ -43,4 +43,7 @@ function inc32() {
   count22.textContent = count2;
 }
 
-function reset() {}
+function reset() {
+  count11.textContent = "0";
+  count22.textContent = "0";
+}
