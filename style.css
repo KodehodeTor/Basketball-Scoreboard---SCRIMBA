@@ -23,3 +23,13 @@ body {
   color: #f94f6d;
   background-color: black;
 }
+
+.home-counter {
+  background-color: #1b244a;
+  color: white;
+}
+
+.guest-counter {
+  background-color: #1b244a;
+  color: white;
+}
