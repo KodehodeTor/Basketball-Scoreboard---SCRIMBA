@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Cursed";
+  src: url("fonts/CursedTimerUlil-Aznm.ttf") format("truetype");
+}
+
 body {
   margin: 0;
 }
@@ -5,4 +10,16 @@ body {
 .container {
   display: flex;
   justify-content: space-around;
+}
+
+#count1 {
+  font-family: Cursed;
+  color: #f94f6d;
+  background-color: black;
+}
+
+#count2 {
+  font-family: Cursed;
+  color: #f94f6d;
+  background-color: black;
 }
