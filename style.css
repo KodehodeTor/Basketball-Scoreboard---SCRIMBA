@@ -7,28 +7,39 @@ body {
   margin: 0;
 }
 
+h3 {
+  text-align: center;
+  padding: 0;
+  margin: -1rem;
+}
+
 .container {
   display: flex;
   justify-content: space-around;
 }
 
 #count1 {
+  padding: 10px;
   font-family: Cursed;
   color: #f94f6d;
   background-color: black;
   font-size: 3rem;
   margin-bottom: 1rem;
+  text-align: center;
 }
 
 #count2 {
+  padding: 10px;
   font-family: Cursed;
   color: #f94f6d;
   background-color: black;
   font-size: 3rem;
   margin-bottom: 1rem;
+  text-align: center;
 }
 
 .container {
+  padding-top: 10rem;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -39,14 +50,14 @@ body {
   background-color: #1b244a;
   color: white;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  padding: 30px 25px;
+  padding: 45px 25px;
 }
 
 .guest-counter {
   background-color: #1b244a;
   color: white;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  padding: 30px 25px;
+  padding: 45px 25px;
 }
 
 .buttons button {
