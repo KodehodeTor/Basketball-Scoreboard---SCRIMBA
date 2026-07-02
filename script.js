@@ -11,7 +11,7 @@ let count22 = document.getElementById("count2");
 
 // HOME
 
-function inc11() {
+function inc11(count) {
   count1 += 1;
   count11.textContent = count1;
 }
