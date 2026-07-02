@@ -44,3 +44,8 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   padding: 25px 25px;
 }
+
+.buttons button {
+  height: 2rem;
+  font-family: Cursed;
+}
