@@ -5,10 +5,6 @@ let count2 = 0;
 let count11 = document.getElementById("count1");
 let count22 = document.getElementById("count2");
 
-// let inc1btn = document.getElementById("inc1-btn");
-// let inc2btn = document.getElementById("inc2-btn");
-// let inc3btn = document.getElementById("inc3-btn");
-
 // HOME
 
 function inc11(count) {
@@ -26,7 +22,7 @@ function inc31() {
   count11.textContent = count1;
 }
 
-// GUESTS
+// GUEST
 
 function inc12() {
   count2 += 1;
