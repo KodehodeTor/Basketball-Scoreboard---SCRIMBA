@@ -18,6 +18,15 @@ h3 {
   justify-content: space-around;
 }
 
+#reset {
+  background: transparent;
+  border: none;
+  height: 15rem;
+  font-family: Cursed;
+  background-color: #1b244a;
+  color: #9aabd8;
+}
+
 #count1 {
   padding: 10px;
   font-family: Cursed;

@@ -42,3 +42,5 @@ function inc32() {
   count2 += 3;
   count22.textContent = count2;
 }
+
+function reset() {}
