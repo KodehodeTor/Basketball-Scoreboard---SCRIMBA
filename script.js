@@ -40,6 +40,8 @@ function inc32() {
 }
 
 function reset() {
+  count1 = 0;
+  count2 = 0;
   count11.textContent = "0";
   count22.textContent = "0";
 }
